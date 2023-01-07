@@ -518,6 +518,7 @@ storage:
   affinity: {}
 
 kong:
+  credentials: ""
   enable: false
   replicaCount: 1
   image:
