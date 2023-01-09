@@ -13,6 +13,7 @@ entries:
     name: supabase
     type: application
     urls:
-    - https://daocorplimited.github.io/supabase-kubernetes/supabase-0.0.1.tgz
+    #- https://daocorplimited.github.io/supabase-kubernetes/supabase-0.0.1.tgz
+    - https://koji-sas.github.io/supabase-kubernetes/build/supabase-0.0.1.tgz
     version: 0.0.1
 generated: "2022-01-14T23:19:40.865169+01:00"
